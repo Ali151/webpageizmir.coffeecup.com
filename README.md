@@ -1,4 +1,4 @@
-# webpageizmir.cuffeecup.com
-webpage.cuffeecup.com sitesinin düzenleme hesabıdır.
+# webpageizmir.coffeecup.com
+webpage.coffeecup.com sitesinin düzenleme hesabıdır.
 
 Aşama aşama kayıt yapılacaktır.
